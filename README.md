@@ -6,11 +6,11 @@ Installation: Ensure you have Python installed on your system.
 
 Dependencies: The script relies on the requests library. You can install it via pip:
 
-Copy code
+
 pip install requests
 Running the Script: Execute the script in your Python environment.
 
-Copy code
+
 python currency_converter.py
 Usage Instructions: Follow the prompts to input the required details:
 
